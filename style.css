@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #211C6A;
+    color: white;
+}
+h1{
+    padding-left: 220px;
+    padding-top: 110px;
+    font-size: 55px;
+}
+h1 spam{
+    color: #15e74d;
+    font-size: 75px;
+    border-bottom: 5px solid #15e74d;
+}
+input{
+    margin-left: 220px;
+    margin-top: 40px;
+    height: 50px;
+    width: 700px;
+    border-radius: 5px;
+}
+input ::placeholder{
+    font-size: larger;
+}
+i{
+    margin-left: 20px;
+    font-size: xx-large;
+    margin-top: 10px;
+}
+button{
+    margin-left: 220px;
+    margin-top: 30px;
+    height: 40px;
+    width: 300px;
+    border-color: #15e74d;
+    border-radius: 5px;
+    background-color: #15e74d;
+    color: white;
+}
